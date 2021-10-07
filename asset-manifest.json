@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/tours/static/css/main.6ec31893.chunk.css",
+    "main.js": "/tours/static/js/main.c276a8a9.chunk.js",
+    "main.js.map": "/tours/static/js/main.c276a8a9.chunk.js.map",
+    "runtime-main.js": "/tours/static/js/runtime-main.c86d4d38.js",
+    "runtime-main.js.map": "/tours/static/js/runtime-main.c86d4d38.js.map",
+    "static/css/2.c0e8d3f0.chunk.css": "/tours/static/css/2.c0e8d3f0.chunk.css",
+    "static/js/2.8e8de986.chunk.js": "/tours/static/js/2.8e8de986.chunk.js",
+    "static/js/2.8e8de986.chunk.js.map": "/tours/static/js/2.8e8de986.chunk.js.map",
+    "static/js/3.a1eaf73e.chunk.js": "/tours/static/js/3.a1eaf73e.chunk.js",
+    "static/js/3.a1eaf73e.chunk.js.map": "/tours/static/js/3.a1eaf73e.chunk.js.map",
+    "index.html": "/tours/index.html",
+    "static/css/2.c0e8d3f0.chunk.css.map": "/tours/static/css/2.c0e8d3f0.chunk.css.map",
+    "static/css/main.6ec31893.chunk.css.map": "/tours/static/css/main.6ec31893.chunk.css.map",
+    "static/js/2.8e8de986.chunk.js.LICENSE.txt": "/tours/static/js/2.8e8de986.chunk.js.LICENSE.txt",
+    "static/media/ireland.fff4fe81.jpeg": "/tours/static/media/ireland.fff4fe81.jpeg",
+    "static/media/italy.d21a7b99.jpeg": "/tours/static/media/italy.d21a7b99.jpeg",
+    "static/media/paris.07e7893c.jpg": "/tours/static/media/paris.07e7893c.jpg",
+    "static/media/poland.04567f34.jpeg": "/tours/static/media/poland.04567f34.jpeg",
+    "static/media/vienna.16f56b18.jpeg": "/tours/static/media/vienna.16f56b18.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c86d4d38.js",
+    "static/css/2.c0e8d3f0.chunk.css",
+    "static/js/2.8e8de986.chunk.js",
+    "static/css/main.6ec31893.chunk.css",
+    "static/js/main.c276a8a9.chunk.js"
+  ]
+}
