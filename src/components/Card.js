@@ -34,13 +34,13 @@ const Card = (props) => {
 					{firstPartDesc}
 					{readShow && (
 						<span className={classes.more} onClick={showParHandler}>
-							<span className={classes.dots}>...</span>Read More
+							<span className={classes.dots}> ...</span>Read More
 						</span>
 					)}
 
 					{showPar && (
 						<span>
-							{secondPartDesc}
+							&nbsp;{secondPartDesc}&nbsp;
 							<span className={classes.more} onClick={hideParHandler}>
 								show less
 							</span>
